@@ -7,6 +7,24 @@
 ![Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-green)
 
 ---
+## Capturas de pantalla 
+
+### Pantalla principal
+![Pantalla principal](assets_readme\tournaments.jpeg)
+
+### Reglas de torneo
+![Registro de participantes](assets_readme\rules.jpeg)
+
+### Diagrama de llaves de combate
+![Organización de llaves](assets_readme\diagram.jpeg)
+
+### Marcador de combate 
+![Pantalla principal](assets_readme\score.jpeg)
+
+### Registro de alumnos
+![Pantalla principal](assets_readme\students.jpeg)
+
+---
 
 ## Descripción
 
